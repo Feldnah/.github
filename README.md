@@ -50,6 +50,15 @@ Trete unserer WhatsApp Community bei und bleib immer auf dem Laufenden!
 
 ---
 
+## 🔗 Folge uns
+
+Bleib mit uns in Kontakt auf Social Media:
+
+- **LinkedIn:** [Feldnah auf LinkedIn](https://www.linkedin.com/company/feldnah)
+- **Facebook:** [Feldnah auf Facebook](https://www.facebook.com/feldnah)
+
+---
+
 ## 📧 Kontakt
 
 Hast du Fragen oder Anregungen? Melde dich bei uns!
