@@ -26,6 +26,8 @@ Trete unserer WhatsApp Community bei und bleib immer auf dem Laufenden!
 
 **[Feldnah WhatsApp Community beitreten](https://chat.whatsapp.com/)**
 
+> 💡 _Hinweis: Der spezifische WhatsApp-Gruppen-Link muss noch hinzugefügt werden._
+
 ---
 
 ## 📧 Kontakt
