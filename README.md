@@ -1,10 +1,32 @@
 # Feldnah
 
-## Über uns
+## Dein digitaler Hofladen
 
-Feldnah ist eine lokale Community-Plattform, die Menschen in der Nachbarschaft zusammenbringt. Wir fördern den Austausch, die Zusammenarbeit und das Gemeinschaftsgefühl in unserem lokalen Umfeld.
+**Die einfachste Lösung für unbediente Hofläden in der Schweiz.**  
+QR-Codes scannen, mit TWINT oder bar bezahlen, fertig.
 
-Unsere Mission ist es, eine starke und vernetzte Gemeinschaft aufzubauen, in der Nachbarn sich gegenseitig unterstützen, Ressourcen teilen und gemeinsam an lokalen Projekten arbeiten können.
+---
+
+## Das Problem
+
+**Kennst du das?**
+
+Du betreibst einen Hofladen oder Selbstbedienungsladen und kämpfst mit Bargeld-Chaos, fehlender Übersicht über Verkäufe und aufwändiger Buchhaltung? Du weisst nie genau, was sich gut verkauft und wann du nachfüllen musst?
+
+**Feldnah.ch löst diese Probleme** - einfach, digital und speziell für Schweizer Landwirte entwickelt.
+
+---
+
+## So funktioniert's
+
+### 1. QR-Codes aufstellen
+Du druckst die QR-Codes aus und stellst sie neben deine Produkte. Die Codes erstellst du einfach in der App.
+
+### 2. Kunden scannen & bezahlen
+Deine Kunden scannen die Produkte mit dem Handy und bezahlen direkt mit TWINT (oder bar).
+
+### 3. Du behältst die Übersicht
+Alle Verkäufe werden automatisch erfasst. Du siehst jederzeit, was sich verkauft und wann du nachfüllen musst. Das Buchungsjournal wird vollautomatisch geführt und ist jederzeit für den Treuhänder abrufbar, sowohl als PDF wie auch als direkt importierbare Buchhaltungsdatei.
 
 ---
 
@@ -24,9 +46,7 @@ Unsere Mission ist es, eine starke und vernetzte Gemeinschaft aufzubauen, in der
 
 Trete unserer WhatsApp Community bei und bleib immer auf dem Laufenden!
 
-**[Feldnah WhatsApp Community beitreten](https://chat.whatsapp.com/)**
-
-> 💡 _Hinweis: Der spezifische WhatsApp-Gruppen-Link muss noch hinzugefügt werden._
+**[Feldnah WhatsApp Community beitreten](https://chat.whatsapp.com/JnSzPUoi7Pi6xJaYn31MFE?mode=gi_t)**
 
 ---
 
@@ -38,28 +58,8 @@ Hast du Fragen oder Anregungen? Melde dich bei uns!
 
 ---
 
-## 📋 Regeln
+## 🚀 Jetzt starten
 
-Um eine respektvolle und konstruktive Community zu gewährleisten, bitten wir alle Mitglieder, folgende Regeln zu beachten:
+Bereit, deinen Hofladen zu digitalisieren? Besuche unsere Webseite und starte noch heute mit Feldnah!
 
-1. **Respekt und Höflichkeit:** Behandle alle Community-Mitglieder mit Respekt und Höflichkeit. Keine Beleidigungen, Diskriminierung oder Hassrede.
-
-2. **Privatsphäre:** Respektiere die Privatsphäre anderer. Teile keine persönlichen Informationen von anderen ohne deren Zustimmung.
-
-3. **Konstruktive Beiträge:** Trage positiv zur Community bei. Spam, Werbung oder irrelevante Inhalte sind nicht erlaubt.
-
-4. **Lokaler Fokus:** Halte die Diskussionen und Beiträge relevant für unsere lokale Gemeinschaft.
-
-5. **Hilfsbereitschaft:** Unterstütze andere Mitglieder, wo du kannst. Gemeinsam sind wir stärker.
-
-6. **Keine illegalen Aktivitäten:** Keine Förderung oder Diskussion illegaler Aktivitäten.
-
-7. **Moderations-Entscheidungen:** Respektiere die Entscheidungen der Moderatoren. Bei Fragen oder Beschwerden wende dich direkt an das Team.
-
----
-
-## 🤝 Mitmachen
-
-Wir freuen uns über jedes neue Mitglied in unserer Community! Besuche unsere Webseite, tritt der WhatsApp-Gruppe bei und werde Teil von Feldnah.
-
-**Zusammen machen wir unsere Nachbarschaft stärker!**
+**Einfach. Digital. Für Schweizer Landwirte.**
